@@ -1,0 +1,21 @@
+Consider adding forget/change password to 'IUserRepository.cs' and forth.
+Consider adding email otp verification during the registration process to 'IUserRepository.cs' and forth.
+	- The user should only be added to the databsae if the otp is verified. (Atomacity)
+
+Consider changing 'Crud.cs' in a way that only the required columns are retrieved for one or all table instances.
+
+
+
+---
+..
+..
+..?
+7/12
+Done:
+Initiated Data layer essentials (DataAccess, Crud)
+Created the Data layer for User management (Model, Repository, Data(Implementation))
+
+Created the Services layer for User management (Interfaces, Services(Implementation))
+
+Tommorow:
+Pickup from creating User DTOs and continue
