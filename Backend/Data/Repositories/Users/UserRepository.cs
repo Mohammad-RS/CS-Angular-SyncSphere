@@ -1,9 +1,9 @@
 ﻿using Dapper;
 using Data.Models.Users;
-using Data.Repositories;
-using Data.Repositories.Users;
+using Data.Interfaces;
+using Data.Interfaces.Users;
 
-namespace Data.Data.Users
+namespace Data.Repositories.Users
 {
     public class UserRepository : IUserRepository
     {

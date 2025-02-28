@@ -1,9 +1,8 @@
 using Data;
-using Service;
-using Data.Repositories.Users;
-using Data.Data;
-using Data.Data.Users;
 using Data.Repositories;
+using Data.Repositories.Users;
+using Data.Interfaces;
+using Data.Interfaces.Users;
 
 namespace Web
 {

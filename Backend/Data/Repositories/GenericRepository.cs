@@ -1,8 +1,8 @@
 ﻿using Dapper;
-using Data.Repositories;
 using System.Reflection;
+using Data.Interfaces;
 
-namespace Data.Data
+namespace Data.Repositories
 {
     public class GenericRepository : IGenericRepository
     {

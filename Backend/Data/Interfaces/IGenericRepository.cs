@@ -1,4 +1,4 @@
-﻿namespace Data.Repositories
+﻿namespace Data.Interfaces
 {
     public interface IGenericRepository
     {

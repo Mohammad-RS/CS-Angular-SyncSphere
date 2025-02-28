@@ -1,6 +1,6 @@
 ﻿using Data.Models.Users;
 
-namespace Data.Repositories.Users
+namespace Data.Interfaces.Users
 {
     public interface IUserRepository
     {

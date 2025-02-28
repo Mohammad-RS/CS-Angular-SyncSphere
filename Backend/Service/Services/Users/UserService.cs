@@ -1,4 +1,4 @@
-﻿using Data.Data.Users;
+﻿using Data.Repositories.Users;
 using Data.Models.Users;
 using Service.Interfaces.Users;
 
